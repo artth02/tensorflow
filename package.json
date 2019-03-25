@@ -1,0 +1,14 @@
+{
+  "name": "tensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tensor.js",
+  "scripts": {
+    "start": "node tensor.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.3.2"
+  }
+}
